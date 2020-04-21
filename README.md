@@ -58,13 +58,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-- [Node.JS]
-- [Neo4J]
-- [GraphQL]
-- [React]
-- [Angular]
-- [Docker]
-- [Now]
+- [Node.JS]()
+- [Neo4J]()
+- [GraphQL]()
+- [React]()
+- [Angular]()
+- [Docker]()
+- [Now]()
 - See package.json in each project for full dependency lists
 
 ## Contributing
