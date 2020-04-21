@@ -8,7 +8,6 @@ import { ApolloServer, makeExecutableSchema } from "apollo-server-express";
 import { makeAugmentedSchema } from "neo4j-graphql-js";
 import neo4j from "neo4j-driver";
 
-// const resolvers = mySchema.resolvers
 const modifiedSchema = makeAugmentedSchema({
   typeDefs: fs
     .readFileSync(path.join(__dirname, "./schema.graphql"))
