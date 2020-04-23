@@ -86,3 +86,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the Apache v2.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
+
+- Everyone at Neo4J for not only making a great product, but also a great eco-system that makes it a breeze to work with.
