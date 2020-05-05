@@ -1,56 +1,28 @@
 # Grand Stack Starter Lite
 
-One Paragraph of project description goes here
+Get stared with creating a [GRANDStack Application]() in no time, with this lightweight template repository.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Click the "Use this template" button, underneath the languages breakdown
+- Update the "LICENSE" file with the year, and your name
+- Pick a UI Library, and delete the other from the repository.
+- Run the stack
+  - Start the applications independently
+  - Run the docker-compose file
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+- [Node.js](https://nodejs.org/en/download/) v10 or greater
+  You can install via direct download, or a version manager like [NVM](https://github.com/nvm-sh/nvm)
+- [Docker](https://docs.docker.com/get-docker/)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+- React, Angular, Api
+  - `cd` into the project directory, and run `npm install`
+- Neo4j
+  - Follow one of their setup guides [here](https://neo4j.com/docs/operations-manual/current/installation/)
 
 ## Deployment
 
@@ -88,3 +60,6 @@ This project is licensed under the Apache v2.0 License - see the [LICENSE.md](LI
 ## Acknowledgments
 
 - Everyone at Neo4J for not only making a great product, but also a great eco-system that makes it a breeze to work with.
+- Facebook for React, the amazing UI library
+- Apollo for the line of GraphQL products they maintain
+- GraphQL Foundation for... GraphQL
