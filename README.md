@@ -6,7 +6,7 @@ Get stared with creating a [GRANDStack Application](grandstack.io) in no time, w
 
 - Click the "Use this template" button, underneath the languages breakdown
 - Update the "LICENSE" file with the year, and your name
-- Pick a UI Library, and delete the other from the repository.
+- Pick a UI Library, make sure the "Dockerfile" and ".dockerignore" files in are that libraries path. Then delete the other from the repository.
 - Run the stack
   - Start the applications independently
   - Run the docker-compose file
