@@ -1,6 +1,6 @@
 # Grand Stack Starter Lite
 
-Get stared with creating a [GRANDStack Application]() in no time, with this lightweight template repository.
+Get stared with creating a [GRANDStack Application](grandstack.io) in no time, with this lightweight template repository.
 
 ## Getting Started
 
@@ -30,13 +30,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-- [Node.JS]()
-- [Neo4J]()
-- [GraphQL]()
-- [React]()
-- [Angular]()
-- [Docker]()
-- [Now]()
+- [Node.JS](nodejs.org)
+- [Neo4J](neo4j.com)
+- [GraphQL](graphql.org)
+- [React](reactjs.org)
+- [Angular](angular.io)
+- [Docker](www.docker.com)
+- [Now](https://github.com/zeit/now)
 - See package.json in each project for full dependency lists
 
 ## Contributing
